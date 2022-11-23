@@ -1,0 +1,22 @@
+.greeting{
+    font-size: 40px;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+.name{
+    text-decoration:underline;
+    font-size: 20px;
+    position: absolute;
+    top: 2%;
+    left: 60%;
+}
+.image{
+    position: absolute;
+    top: 40%;
+    left: 60%;
+    background-size: 5px;
+    width: 5px;
+    height: 5px;
+    max-width: 15px;
+}
